@@ -61,9 +61,6 @@
 
     Biophysical models combine the physical laws and biological behavior of the organism being studied. In larval dispersal studies, these models are driven by ocean currents and the characteristics of the larvae, such as gestation period, lifespan, and behavior. Early studies treated larvae as passive particles, and biological factors are then introduced later on @north2008. There are several biological factors influence dispersal. These include pelagic larval duration (PLD), the ability of the larvae to swim or stay afloat on the water column, and mortality during the larval period.
 
-
-
-
   == Graph Theory
     Graph theory is a branch of mathematics that studies networks @newman2010. A network consists of nodes, which represent locations, and edges, which represent connections between locations. In larval population ecology, nodes can represent sites such as possible settlement areas, while edges represent the movement of organisms between these sites @treml2008.
 
